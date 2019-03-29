@@ -19,17 +19,17 @@ The following SISR structure
 
 ## MSCOCO2017 Toy Dataset Download links:
 Training Samples: 4,900 Color images (About 500x500)
-https://drive.google.com/file/d/1wlg5hUYrLixZ9TyWbzaZbFNHuJeQCWqu/view?usp=sharing
-Validation Samples: 100 Color images (About 500x500)
+https://drive.google.com/file/d/1wlg5hUYrLixZ9TyWbzaZbFNHuJeQCWqu/view?usp=sharing        
+Validation Samples: 100 Color images (About 500x500)        
 https://drive.google.com/file/d/1Grqrz9aZ-c-LlTAXbi3lbKt1IAtz551l/view?usp=sharing
 
 ## Requirement     
 matplotlib           3.0.3         
 tensorboard          1.13.1     
 tensorboardX         1.6          
-tensorflow-gpu       1.13.1     
-torch                1.0.1.post2
-torchvision          0.2.2.post3
+tensorflow-gpu       1.13.1        
+torch                1.0.1.post2        
+torchvision          0.2.2.post3        
 
 ## Steps
 1. put this folders in data folder
