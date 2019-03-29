@@ -1,2 +1,3 @@
-# Single-Image-Super-Resolution-Network-SISR-
+# Single Image Super-Resolution Network (SISR)
 Freshmen assignment1
+
