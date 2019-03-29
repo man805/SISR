@@ -31,6 +31,7 @@ tensorflow-gpu       1.13.1
 torch                1.0.1.post2
 torchvision          0.2.2.post3
 
+## Steps
 1. put this folders in data folder
 2. run resize.py with 'python resize.py'
 3. make 'models' and 'logs' folder
